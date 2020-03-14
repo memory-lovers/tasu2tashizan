@@ -2,7 +2,7 @@
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "/index.html": "adba2fe131d06bc13ecc728624a5da51",
-"/main.dart.js": "5b62b5f99737fc3fe3d226c22eae5971",
+"/main.dart.js": "c25132f73029f140188916ff3c69e968",
 "/icons/safari-icon.svg": "5a55a267965e405626e1411672503c4d",
 "/icons/ogp.png": "25c4c0b8c614fc6460e0ba3c2fbf5b8c",
 "/icons/mstile-144x144.png": "21afa91728f922eb34d5b41f1b835ab5",
@@ -10,7 +10,7 @@ const RESOURCES = {
 "/icons/android-chrome-192x192.png": "ff96ff8f8b075a629d7d5315721739d5",
 "/icons/apple-touch-icon-180x180.png": "9e153ca4312a0c4774a34dc7fb9b267d",
 "/icons/android-chrome-512x512.png": "2186f6538a1d110a5fe9c1aaf9b39f62",
-"/manifest.json": "87dd48cd18ab57532c6751d31ad611f3",
+"/manifest.json": "629d4227d151f73b1d4e8f90db4fe229",
 "/assets/LICENSE": "1a80be6c5724a31e6f9c9e06dba53b63",
 "/assets/AssetManifest.json": "28d4a33467bfc044c45b04ff1e159398",
 "/assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",

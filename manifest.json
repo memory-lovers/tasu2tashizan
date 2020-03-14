@@ -6,7 +6,7 @@
     "background_color": "#FFFFFF",
     "theme_color": "#0175C2",
     "description": "小学生向け足し算ゲーム『たすたすたしざん』",
-    "orientation": "portrait-primary",
+    "orientation": "portrait",
     "prefer_related_applications": false,
     "icons": [
         {
